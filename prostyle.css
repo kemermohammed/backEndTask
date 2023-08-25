@@ -1,0 +1,32 @@
+.main{
+    border: gray solid 6px;
+    border-radius: 50px;
+    margin-top: 50px;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+
+   
+    
+}
+.img{
+    width: 300px;
+    height: auto;
+    border: white solid 1px;
+    border-radius: 50%;
+    margin-right: 50px;
+    
+    padding: 50px;
+
+
+}
+.txt{
+    margin-top: auto;
+    margin-bottom: auto;    
+
+}
+

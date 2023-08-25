@@ -1,0 +1,43 @@
+.green{
+    background: green;
+    height: 50px;
+    margin: 10px;
+}
+.yellow{
+    background: yellow;
+    height: 50px;
+}
+.red{
+    background: red;
+    height: 50px;
+    margin: 10px;
+}
+.google{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.inp{
+    text-align: center;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    height: 30px;
+}
+.pg{
+    color:black;
+    background-color: grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 50px;
+    width: 500px;
+    border: black solid 10px;
+    border-radius: 20px;
+}
